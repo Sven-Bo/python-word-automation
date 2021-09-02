@@ -1,0 +1,7 @@
+python_docx==0.8.10
+pywin32==227
+xlwings==0.23.0
+pandas==1.2.0
+matplotlib==3.3.3
+docxtpl==0.11.4
+docx==0.2.4
