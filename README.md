@@ -6,7 +6,7 @@ Did you know you can use Python code to dynamically create Word Documents? For t
 
 ## Video
 
-[![YouTube Video](https://img.youtube.com/vi/https://youtu.be/T3meVMaV8AA/0.jpg)](https://youtu.be/https://youtu.be/T3meVMaV8AA)
+[![YouTube Video](https://img.youtube.com/vi/T3meVMaV8AA/0.jpg)](https://youtu.be/T3meVMaV8AA)
 
 
 ## Author
