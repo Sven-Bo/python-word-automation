@@ -22,5 +22,5 @@ Did you know you can use Python code to dynamically create Word Documents? For t
 If you have any feedback, please reach out to me at contact@pythonandvba.com
 
 
-![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
+![Logo](https://www.pythonandvba.com/banner-img)
 
